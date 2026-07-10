@@ -125,31 +125,31 @@
 
 ## 项目结构
 	Video-Frame-Extractor/
-	├── VFE.py                 # Python源代码
-	├── ico/                      # 应用图标文件夹（程序依赖）
-	│   ├── VFE_w.ico        # 程序窗口图标
-	│   ├── VFE_b.ico         # 程序图标
-	│   └── Github.ico        # GitHub 图标
-	├── screenshots/          #截图文件夹
+	├── VFE.py                  # Python源代码
+	├── ico/                    # 应用图标文件夹（程序依赖）
+	│   ├── VFE_w.ico           # 程序窗口图标
+	│   ├── VFE_b.ico           # 程序图标
+	│   └── Github.ico          # GitHub 图标
+	├── screenshots/            #截图文件夹
 	│	├── Window_zh.png          
 	│   	└── Window_en.png
-	├── requirements.txt           # Python 依赖列表
-	├── README.md                # 介绍文档
-	├── LICENSE                      # MIT 许可证文件
-	├── .gitignore                   # Git 忽略规则
-	├── Languages/               # 外部语言包（JSON 文件）
-	│   └── (默认为空)            # 为空时默认中文
-	└── en-US.json               # 附件（可选）放入Languages文件夹用于程序英文支持
+	├── requirements.txt        # Python 依赖列表
+	├── README.md               # 介绍文档
+	├── LICENSE                 # MIT 许可证文件
+	├── .gitignore              # Git 忽略规则
+	├── Languages/              # 外部语言包（JSON 文件）
+	│   └── (默认为空)           # 为空时默认中文
+	└── en-US.json              # 附件（可选）放入Languages文件夹用于程序英文支持
 	
 ## 参与贡献
-	欢迎任何形式的贡献！无论是报告 Bug、提出新功能建议，还是提交代码，我们都非常感谢！
+欢迎任何形式的贡献！无论是报告 Bug、提出新功能建议，还是提交代码，我们都非常感谢！
 
 ## 许可证
-	本项目采用 MIT 许可证，详见 LICENSE 文件。
+本项目采用 MIT 许可证，详见 LICENSE 文件。
 
 ## 联系与支持
-	作者：ShuoDev
-	GitHub 仓库：https://github.com/ShuoDev/Video-Frame-Extractor
-	问题反馈：请使用 GitHub Issues 页面报告 Bug 或请求功能。
+作者：ShuoDev
+GitHub 仓库：https://github.com/ShuoDev/Video-Frame-Extractor
+问题反馈：请使用 GitHub Issues 页面报告 Bug 或请求功能。
 
-感谢您使用 Video Frame Extractor！ 如果您觉得这个工具有帮助，请考虑给仓库点个 ⭐，您的支持是我们持续改进的动力！
+感谢您使用 Video-Frame-Extractor！ 如果您觉得这个工具有帮助，请考虑给仓库点个 ⭐，您的支持是我们持续改进的动力！
